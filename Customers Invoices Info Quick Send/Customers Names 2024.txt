@@ -1,0 +1,71 @@
+Customers Info
+
+
+
+   1.Breathe Salon
+   Invoice
+   Date: 
+   Service Recipient: Breathe Salon
+   Location: 10049 Grand River Ave, Suite 600, Brighton, Michigan 48116
+   Service Provider: Michigan Cleaning Crew
+   Location: 485 Dailey Court, Fowlerville, Michigan 48836
+
+2. Customer-Carols Mighty Maids-1446 Odette Hartland, MI 48353
+   Service Date:
+   Service Recipient-Wayne Homes Model Center Hartland
+   Location Address -11600 Highland Rd, Hartland, MI 48353
+   Service Provider: Michigan Cleaning Crew
+   Location: 485 Dailey Court, Fowlerville, Michigan 48836
+
+
+3. Customer-Woodland Lake Family Dental Group
+   Service Date-
+   Service Recipient- North American Dental Group
+   Location Address-8127 Grand River Ave, Brighton, MI 48114
+   Service Provider: Michigan Cleaning Crew LLC
+   Location: 485 Dailey Court, Fowlerville, Michigan 48836
+
+4. Customer-Maplewood Family Dental Group  
+   Service Date-
+   Service Recipient- North American Dental Group
+   Location Address- 2725 S Milford Rd, Highland, MI 48357
+   Service Provider: Michigan Cleaning Crew
+   Location: 485 Dailey Court, Fowlerville, Michigan 48836
+
+
+
+
+5. Customer-StoneyBrooke Family Dental Group
+   Service Date-
+   Service Recipient- North American Dental Group LLC
+   Location Address- 22018  Power Rd. Farmington, MI 48336
+   Service Provider: Michigan Cleaning Crew
+   Location: 485 Dailey Court, Fowlerville, Michigan 48836
+
+
+6. Customer-Chesterfield Lakeshore Family Dental Co
+   Service Date-
+   Service Recipient- North American Dental Group LLC
+   Location Address- 27891 23 Mile Road ChesterField Michigan 48051
+   Service Provider: Michigan Cleaning Crew
+   Location:485 Dailey Court, Fowlerville, Michigan 48836
+
+7. Customer- Shelby Family Dental  
+   Office Manager-Ansam Yaldah 
+   Office Mangers Email-yaldaha@nadentalgroup.com
+   Office Phone Number-586-884-6380
+   Service Date-
+   Service Recipient-North American Dental Group
+   Location Address-49114 Van Dyke Rd Shelby Township, MI 48317
+   Service Provider: Michigan Cleaning Crew
+   Location: 485 Dailey Court, Fowlerville, Michigan 48836
+
+
+7. Customer- Shelby Family Dental  
+   Service Date-
+   Service Recipient- North American Dental Group
+   Location Address-
+   Service Provider: Michigan Cleaning Crew
+   Location:485 Dailey Court, Fowlerville, Michigan 48836
+
+

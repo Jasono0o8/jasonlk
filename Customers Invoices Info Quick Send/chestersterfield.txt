@@ -1,0 +1,14 @@
+Date,Customer,Service Recipient,Amount,Address,Service Provider,Location Address
+2024-01-05,Chesterfield Lakeshore Family Dental Co,North American Dental Group LLC,$200,27891 23 Mile Road ChesterField Michigan 48051,Michigan Cleaning Crew,485 Dailey Court, Fowlerville, Michigan 48836
+2024-01-12,Chesterfield Lakeshore Family Dental Co,North American Dental Group LLC,$200,27891 23 Mile Road ChesterField Michigan 48051,Michigan Cleaning Crew,485 Dailey Court, Fowlerville, Michigan 48836
+2024-01-19,Chesterfield Lakeshore Family Dental Co,North American Dental Group LLC,$200,27891 23 Mile Road ChesterField Michigan 48051,Michigan Cleaning Crew,485 Dailey Court, Fowlerville, Michigan 48836
+2024-01-26,Chesterfield Lakeshore Family Dental Co,North American Dental Group LLC,$200,27891 23 Mile Road ChesterField Michigan 48051,Michigan Cleaning Crew,485 Dailey Court, Fowlerville, Michigan 48836
+2024-02-02,Chesterfield Lakeshore Family Dental Co,North American Dental Group LLC,$200,27891 23 Mile Road ChesterField Michigan 48051,Michigan Cleaning Crew,485 Dailey Court, Fowlerville, Michigan 48836
+2024-02-09,Chesterfield Lakeshore Family Dental Co,North American Dental Group LLC,$250,27891 23 Mile Road ChesterField Michigan 48051,Michigan Cleaning Crew,485 Dailey Court, Fowlerville, Michigan 48836
+2024-02-16,Chesterfield Lakeshore Family Dental Co,North American Dental Group LLC,$250,27891 23 Mile Road ChesterField Michigan 48051,Michigan Cleaning Crew,485 Dailey Court, Fowlerville, Michigan 48836
+2024-02-23,Chesterfield Lakeshore Family Dental Co,North American Dental Group LLC,$250,27891 23 Mile Road ChesterField Michigan 48051,Michigan Cleaning Crew,485 Dailey Court, Fowlerville, Michigan 48836
+2024-03-01,Chesterfield Lakeshore Family Dental Co,North American Dental Group LLC,$250,27891 23 Mile Road ChesterField Michigan 48051,Michigan Cleaning Crew,485 Dailey Court, Fowlerville, Michigan 48836
+2024-03-08,Chesterfield Lakeshore Family Dental Co,North American Dental Group LLC,$250,27891 23 Mile Road ChesterField Michigan 48051,Michigan Cleaning Crew,485 Dailey Court, Fowlerville, Michigan 48836
+2024-03-15,Chesterfield Lakeshore Family Dental Co,North American Dental Group LLC,$250,27891 23 Mile Road ChesterField Michigan 48051,Michigan Cleaning Crew,485 Dailey Court, Fowlerville, Michigan 48836
+2024-03-22,Chesterfield Lakeshore Family Dental Co,North American Dental Group LLC,$250,27891 23 Mile Road ChesterField Michigan 48051,Michigan Cleaning Crew,485 Dailey Court, Fowlerville, Michigan 48836
+2024-03-29,Chesterfield Lakeshore Family Dental Co,North American Dental Group LLC,$250,27891 23 Mile Road ChesterField Michigan 48051,Michigan Cleaning Crew,485 Dailey Court, Fowlerville, Michigan 48836
